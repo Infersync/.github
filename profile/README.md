@@ -1,14 +1,8 @@
-<table>
-  <tr>
-    <td align="left" valign="top" width="120">
-      <img src="logo.png" alt="Infersync Logo" width="100" />
-    </td>
-    <td valign="middle">
-      <h1>Infersync</h1>
-      <em>Automation tools for modern teams<br>Build faster, work smarter</em>
-    </td>
-  </tr>
-</table>
+<h1 align="left">Infersync</h1>
+
+<p align="left">
+  <em>Automation tools for modern teams<br>Build faster, work smarter</em>
+</p>
 
 ## 🔧 What We Build
 
